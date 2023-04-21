@@ -47,11 +47,12 @@ Poi golf, sci, F1, MotoGP, biathlon, atletica, snooker e tutto il resto dello sp
 🕸 Sono sociale ma poco social (anche se ho Facebook dal 2008).
 
 📈 Nel resto sono sostanzialmente un imprenditore:
-Dev per passione e divertimento.
-CEO di StayActive.
-Lavoro anche nel mondo assicurativo, finanziario e medico.
-Rivoluziono i mondi con cui vengo a contatto.
-ProductHunter con 22k+ prodotti testati. Sì, 22000+.
+
+* Dev per passione e divertimento.
+* CEO di StayActive.
+* Lavoro anche nel mondo assicurativo, finanziario e medico.
+* Rivoluziono i mondi con cui vengo a contatto.
+* ProductHunter con 22k+ prodotti testati. Sì, 22000+.
 
 🏖 Vorrei la tredicesima, la quattordicesima e le ferie pagate ma non voglio essere dipendente da qualcuno (se non da Sara e da Chiara).
 
