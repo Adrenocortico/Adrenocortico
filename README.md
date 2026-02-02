@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### TL;DR: Building complex systems in ambiguous contexts. Physics mindset. Piano discipline. Always asking why. Building for passion, not noise.
+**TL;DR: Building complex systems in ambiguous contexts. Physics mindset. Piano discipline. Always asking why. Building for passion, not noise.**
 
 ---
 
