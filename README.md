@@ -91,7 +91,8 @@ Plus golf, skiing, F1, MotoGP, biathlon, athletics, snooker — yes, even PDC.
 - Developer by passion  
 - Former CEO of StayActive  
 - Active across insurance, finance, healthcare, and cultural projects  
-- Product Hunter (22k+ products tested)
+- Product Hunter (22k+ products tested)  
+- **Forbes 30 Under 30 Italy**
 
 🏖 I like the idea of paid vacations and extra salaries,
 but I don’t like being dependent on anyone —
