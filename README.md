@@ -17,6 +17,26 @@ and someone needs to decide.
 
 ---
 
+## A concrete example
+
+One of the systems I work on is a large-scale cultural event
+involving public institutions, sponsors, volunteers,
+and thousands of participants.
+
+It operates in a non-hierarchical context,
+with high variability, strong public exposure,
+and real reputational and logistical risk.
+
+My role is to hold vision and delivery together,
+take responsibility where structure is missing,
+and ensure the system works — year after year.
+
+One of these systems is the Palio of Vigevano,
+a historical cultural event with strong public exposure
+and a complex ecosystem of stakeholders.
+
+---
+
 ## How I think and work
 
 - I look for the *reason* behind things, not just the solution
