@@ -1,93 +1,98 @@
 ### Hi there 👋
 
-I work on complex systems in ambiguous, high-variability environments.
-
-I take end-to-end responsibility where structure is missing, stakeholders are many,
-and decisions have real operational, reputational, or economic consequences.
-I’m most effective when there’s no clear answer and someone needs to decide.
-
-My work spans software, insurance, finance, healthcare, and large-scale cultural projects.
-I tend to operate without formal power, using vision, systems thinking, and delivery.
+### TL;DR: Building complex systems in ambiguous contexts. Physics mindset. Piano discipline. Always asking why. Building for passion, not noise.
 
 ---
 
-## What defines the way I work
+## What I do
+
+I work on complex systems where structure is missing, stakeholders are many,
+and decisions have real operational, reputational, or economic consequences.
+
+I tend to take end-to-end responsibility without relying on formal power,
+connecting vision and delivery and making systems work under ambiguity.
+
+I’m most effective when there’s no clear answer
+and someone needs to decide.
+
+---
+
+## How I think and work
 
 - I look for the *reason* behind things, not just the solution  
-- I’m comfortable holding complexity and ambiguity  
-- I connect vision and execution  
-- I build systems that keep working even when I step back  
+- I’m comfortable holding ambiguity and complexity  
+- I connect ideas to execution  
+- I build systems meant to last, not to impress  
 
 ---
 
-## Background & interests (less formal, more me)
+## Background
 
-👨🏻‍🔬 Physics (I studied it seriously; the mindset stayed with me).  
-🎹 Piano.  
-🖖🏻 Willful, intransigent, talkative — in the constructive sense.  
-🔍 I’m obsessed with *why* things work (or don’t).  
-💭 I think constantly.  
-🛏 I sleep very little.  
+👨🏻‍🔬 Physics-trained mindset (formal studies, lasting way of thinking).  
+🎹 Piano: discipline, structure, long-term practice.  
 📚 Forever a student.
 
-⛰ I love mountains and photography (Nikon).  
-🔁 Inventor of the *circular rhyme*.  
+I think constantly.  
+I sleep very little.  
+I tend to go deep rather than wide — even when it looks like the opposite.
 
 ---
 
-## Life, faith, people
+## Life, people, meaning
 
 🔗 Married to Sara.  
-If you know her, no explanation needed.  
+If you know her, nothing else needs to be said.  
 If you don’t, she’s the only person capable of stopping me.
 
-👧🏻 Thanks mostly to her, Chiara was born.  
+👧🏻 Father of Chiara and Rachele.  
 Fatherhood turned out to be the most totalizing experience of my life.
-All the stories were true. I was wrong to doubt.
+All the stories were true.
 
 ⛪️ I go to church every Sunday.
-I’d like to revolutionize the Church from the inside.
-I’m an educator for a group of incredible young people, working on Digital Pastoral projects with them.
+I believe change is more effective when it happens from the inside.
+I’m an educator for a group of incredible young people,
+working with them on Digital Pastoral projects.
 
 ---
 
-## Tech & making things work
+## Technology & making things work
 
-🤖 I automate literally everything I can — homes included — often with a touch of AI/ML.  
-Bash, Swift, Python… as long as it’s not too verbose.
+🤖 I automate literally everything I can — homes included —
+often with a touch of AI and machine learning.
 
-📱 I currently have hundreds of apps on my iPhone, tens of thousands of photos, and thousands of videos.
-Yes, I know. No, I’m not fixing it.
+Bash, Swift, Python… as long as it’s not overly verbose.
 
-I still use Bitbucket for historical reasons.
-My GitHub repos are a work in progress — like many living systems.
+Some repositories here are experiments,
+some are tools,
+some are unfinished systems.
+That’s intentional: living systems evolve.
 
 ---
 
-## Music, sport, randomness
+## Interests & signals
 
-🎧 I listen to everything: trap, rap (also French), classical, singer-songwriters, pop, indie, podcasts.
+⛰ Mountains and photography (Nikon).  
+🎧 I listen to almost everything: trap, rap (also French), classical, songwriters, pop, indie, podcasts.
 
 🏀 Kobe first, then L.A. Lakers.  
 ⚽️ Juventus.  
-Plus golf, skiing, F1, MotoGP, biathlon, athletics, snooker… yes, even PDC.
+Plus golf, skiing, F1, MotoGP, biathlon, athletics, snooker — yes, even PDC.
 
-💸 Crypto, NFTs, and the broader question of how value actually works.
+💸 Crypto, NFTs, and broader questions around how value is created and sustained.
 
-🕸 Social person, not very social-media-oriented (Facebook since 2008, mostly unused).
+🕸 Social person, not very social-media-oriented.
 
 ---
 
 ## In short
 
-📈 At the core, I’m an entrepreneur.
+📈 At the core, I’m an entrepreneur and a system builder.
 
 - Developer by passion  
 - Former CEO of StayActive  
-- Active in insurance, finance, and healthcare  
-- I tend to reshape the systems I touch  
+- Active across insurance, finance, healthcare, and cultural projects  
 - Product Hunter (22k+ products tested)
 
-🏖 I’d like a 13th and 14th salary and paid vacations,
-but I don’t want to be dependent on anyone —
+🏖 I like the idea of paid vacations and extra salaries,
+but I don’t like being dependent on anyone —
 except Sara, Chiara, and Rachele.
