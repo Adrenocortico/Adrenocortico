@@ -4,7 +4,7 @@
 
 ---
 
-## What I do 🧠⚙️
+## What I do
 
 I work on complex systems where structure is missing, stakeholders are many,  
 and decisions have real operational, reputational, or economic consequences.
@@ -17,7 +17,7 @@ and someone needs to decide.
 
 ---
 
-## How I think and work 🔍
+## How I think and work
 
 - I look for the *reason* behind things, not just the solution
 - I’m comfortable holding ambiguity and complexity
@@ -26,7 +26,7 @@ and someone needs to decide.
 
 ---
 
-## Background 🧬
+## Background
 
 👨🏻‍🔬 Physics-trained mindset (formal studies, lasting way of thinking).  
 🎹 Piano: discipline, structure, long-term practice.  
