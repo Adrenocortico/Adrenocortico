@@ -1,72 +1,93 @@
 ### Hi there 👋
 
-**TL;DR: Physics. Piano. Willful, intransigent, talkative. I always look for the reason of things. Develop for passion. CEO of many things.**
+I work on complex systems in ambiguous, high-variability environments.
 
-Forbes 30Under30 Italia.
+I take end-to-end responsibility where structure is missing, stakeholders are many,
+and decisions have real operational, reputational, or economic consequences.
+I’m most effective when there’s no clear answer and someone needs to decide.
 
-So tante cose e le dico con altrettante parole.
+My work spans software, insurance, finance, healthcare, and large-scale cultural projects.
+I tend to operate without formal power, using vision, systems thinking, and delivery.
 
-👨🏻‍🔬 Fisica (ma non mi sono laureato).
+---
 
-🎹 Pianoforte.
+## What defines the way I work
 
-🖖🏻 Volenteroso, intransigente, loquace.
+- I look for the *reason* behind things, not just the solution  
+- I’m comfortable holding complexity and ambiguity  
+- I connect vision and execution  
+- I build systems that keep working even when I step back  
 
-🔍 Cerco sempre il perché delle cose.
+---
 
-💭 Non riesco a non pensare.
+## Background & interests (less formal, more me)
 
-🛏 Dormo poco. Ma proprio poco poco poco.
+👨🏻‍🔬 Physics (I studied it seriously; the mindset stayed with me).  
+🎹 Piano.  
+🖖🏻 Willful, intransigent, talkative — in the constructive sense.  
+🔍 I’m obsessed with *why* things work (or don’t).  
+💭 I think constantly.  
+🛏 I sleep very little.  
+📚 Forever a student.
 
-📚 Studente per sempre.
+⛰ I love mountains and photography (Nikon).  
+🔁 Inventor of the *circular rhyme*.  
 
-⛰ Amo la montagna e la fotografia (Nikon).
+---
 
-🔁 Inventore della rima circolare.
+## Life, faith, people
 
-🔗 Sono sposato con Sara: se la conosci non c’è da aggiungere niente, altrimenti sappi che lei è l’unica a riuscire a fermarmi.
+🔗 Married to Sara.  
+If you know her, no explanation needed.  
+If you don’t, she’s the only person capable of stopping me.
 
-👧🏻 Grazie a lei (e solo in minima parte a me) è nata Chiara: l’esperienza più totalizzante della mia vita. Credevo che fossero storie inventante quelle sui papà: ho sbagliato completamente.
+👧🏻 Thanks mostly to her, Chiara was born.  
+Fatherhood turned out to be the most totalizing experience of my life.
+All the stories were true. I was wrong to doubt.
 
-⛪️ Vado in chiesa ogni domenica ma vorrei rivoluzionare la Chiesa dal dentro. Sono l’educatore di alcuni ragazzi fantastici. Con loro faccio Pastorale Digitale.
+⛪️ I go to church every Sunday.
+I’d like to revolutionize the Church from the inside.
+I’m an educator for a group of incredible young people, working on Digital Pastoral projects with them.
 
-🤖 Automatizzo letteralmente ogni cosa e ogni casa, se posso anche con un tocco di AI e ML. Bash, Swift, Python… Basta che non sia troppo verboso. Dovrei mettere a posto il mio repo GitHub ma non ho mai voglia. Uso ancora BitBucket perché prima era l’unico gratuito con le repo private.
+---
 
-📱 Ho 367 app, 70954 foto e 2779 video sull’iPhone. Sì, 367 app ma spesso sono di più.
+## Tech & making things work
 
-🎧 Ascolto trap, rap (anche quello francese), classica, cantautori, pop, indie… Ascolto davvero di tutto. Anche i podcast.
+🤖 I automate literally everything I can — homes included — often with a touch of AI/ML.  
+Bash, Swift, Python… as long as it’s not too verbose.
 
-🏀 Prima Kobe e poi L.A. Lakers
+📱 I currently have hundreds of apps on my iPhone, tens of thousands of photos, and thousands of videos.
+Yes, I know. No, I’m not fixing it.
 
-⚽️ Juventus
+I still use Bitbucket for historical reasons.
+My GitHub repos are a work in progress — like many living systems.
 
-Poi golf, sci, F1, MotoGP, biathlon, atletica, snooker e tutto il resto dello sport. Sì, anche PDC.
+---
 
-💸 Tra le altre cose, crypto e NFT.
+## Music, sport, randomness
 
-🕸 Sono sociale ma poco social (anche se ho Facebook dal 2008).
+🎧 I listen to everything: trap, rap (also French), classical, singer-songwriters, pop, indie, podcasts.
 
-📈 Nel resto sono sostanzialmente un imprenditore:
+🏀 Kobe first, then L.A. Lakers.  
+⚽️ Juventus.  
+Plus golf, skiing, F1, MotoGP, biathlon, athletics, snooker… yes, even PDC.
 
-* Dev per passione e divertimento.
-* CEO di StayActive.
-* Lavoro anche nel mondo assicurativo, finanziario e medico.
-* Rivoluziono i mondi con cui vengo a contatto.
-* ProductHunter con 22k+ prodotti testati. Sì, 22000+.
+💸 Crypto, NFTs, and the broader question of how value actually works.
 
-🏖 Vorrei la tredicesima, la quattordicesima e le ferie pagate ma non voglio essere dipendente da qualcuno (se non da Sara, da Chiara e da Rachele).
+🕸 Social person, not very social-media-oriented (Facebook since 2008, mostly unused).
 
-<!--
-**Adrenocortico/Adrenocortico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## In short
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 At the core, I’m an entrepreneur.
+
+- Developer by passion  
+- Former CEO of StayActive  
+- Active in insurance, finance, and healthcare  
+- I tend to reshape the systems I touch  
+- Product Hunter (22k+ products tested)
+
+🏖 I’d like a 13th and 14th salary and paid vacations,
+but I don’t want to be dependent on anyone —
+except Sara, Chiara, and Rachele.
