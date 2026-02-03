@@ -17,26 +17,6 @@ and someone needs to decide.
 
 ---
 
-## A concrete example
-
-One of the systems I work on is a large-scale cultural event
-involving public institutions, sponsors, volunteers,
-and thousands of participants.
-
-It operates in a non-hierarchical context,
-with high variability, strong public exposure,
-and real reputational and logistical risk.
-
-My role is to hold vision and delivery together,
-take responsibility where structure is missing,
-and ensure the system works — year after year.
-
-One of these systems is the Palio of Vigevano,
-a historical cultural event with strong public exposure
-and a complex ecosystem of stakeholders.
-
----
-
 ## How I think and work
 
 - I look for the *reason* behind things, not just the solution
@@ -67,6 +47,14 @@ If you don’t, she’s the only person capable of stopping me. 🛑
 👧🏻👶 Father of Chiara and Rachele.  
 Fatherhood turned out to be the most totalizing experience of my life.  
 All the stories were true. 🌍
+
+🏰 I’m deeply involved in the Palio of Vigevano,  
+a large-scale historical and cultural event with strong public exposure.
+
+It’s a living system made of public institutions, sponsors, volunteers,
+and thousands of participants and visitors.
+A non-hierarchical context where responsibility is real
+and continuity matters year after year.
 
 ⛪️ I go to church every Sunday.  
 I believe change is more effective when it happens from the inside.  
